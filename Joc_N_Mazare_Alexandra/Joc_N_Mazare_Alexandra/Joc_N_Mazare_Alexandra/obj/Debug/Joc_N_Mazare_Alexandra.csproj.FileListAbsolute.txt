@@ -1,0 +1,12 @@
+D:\A\Mazare Alexandra XIIB\Joc_N_Mazare_Alexandra\Joc_N_Mazare_Alexandra\bin\Debug\Joc_N_Mazare_Alexandra.exe.config
+D:\A\Mazare Alexandra XIIB\Joc_N_Mazare_Alexandra\Joc_N_Mazare_Alexandra\bin\Debug\Joc_N_Mazare_Alexandra.exe
+D:\A\Mazare Alexandra XIIB\Joc_N_Mazare_Alexandra\Joc_N_Mazare_Alexandra\bin\Debug\Joc_N_Mazare_Alexandra.pdb
+D:\A\Mazare Alexandra XIIB\Joc_N_Mazare_Alexandra\Joc_N_Mazare_Alexandra\obj\Debug\Joc_N_Mazare_Alexandra.csprojAssemblyReference.cache
+D:\A\Mazare Alexandra XIIB\Joc_N_Mazare_Alexandra\Joc_N_Mazare_Alexandra\obj\Debug\Joc_N_Mazare_Alexandra.Form1.resources
+D:\A\Mazare Alexandra XIIB\Joc_N_Mazare_Alexandra\Joc_N_Mazare_Alexandra\obj\Debug\Joc_N_Mazare_Alexandra.Properties.Resources.resources
+D:\A\Mazare Alexandra XIIB\Joc_N_Mazare_Alexandra\Joc_N_Mazare_Alexandra\obj\Debug\Joc_N_Mazare_Alexandra.csproj.GenerateResource.cache
+D:\A\Mazare Alexandra XIIB\Joc_N_Mazare_Alexandra\Joc_N_Mazare_Alexandra\obj\Debug\Joc_N_Mazare_Alexandra.csproj.CoreCompileInputs.cache
+D:\A\Mazare Alexandra XIIB\Joc_N_Mazare_Alexandra\Joc_N_Mazare_Alexandra\obj\Debug\Joc_N_Mazare_Alexandra.exe
+D:\A\Mazare Alexandra XIIB\Joc_N_Mazare_Alexandra\Joc_N_Mazare_Alexandra\obj\Debug\Joc_N_Mazare_Alexandra.pdb
+D:\A\Mazare Alexandra XIIB\Joc_N_Mazare_Alexandra\Joc_N_Mazare_Alexandra\obj\Debug\Joc_N_Mazare_Alexandra.Form2.resources
+D:\A\Mazare Alexandra XIIB\Joc_N_Mazare_Alexandra\Joc_N_Mazare_Alexandra\obj\Debug\Joc_N_Mazare_Alexandra.Form3.resources
